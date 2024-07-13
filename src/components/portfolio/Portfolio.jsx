@@ -35,8 +35,8 @@ const Portfolio = () => {
       description:
         'Fully responsive Portfolio site of a MERN devloper made using React JS ',
       technologies: 'React JS, Material UI, Email JS',
-      link: '#',
-      github: '#',
+      link: 'https://akshaypatidar.netlify.app/',
+      github: 'https://github.com/github-akshaypatidar/React-Portfolio-App',
     },
   ];
 
